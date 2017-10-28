@@ -3,19 +3,19 @@ Learn Python Fast With Jupiter Notebook
 
 # Table of content
 
-[1.Variables](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/01.ipynb)
+[1.Variables](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/01.ipynb){:target="_blank"}
 
-[2.Print Statement](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/02.ipynb)
+[2.Print Statement](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/02.ipynb){:target="_blank"}
 
-[3.Data Structure](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/03.ipynb)
+[3.Data Structure](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/03.ipynb){:target="_blank"}
 
-[4.String](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/04.ipynb)
+[4.String](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/04.ipynb){:target="_blank"}
 
-[5.Control Flow Statements](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/05.ipynb)
+[5.Control Flow Statements](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/05.ipynb){:target="_blank"}
 
-[6.Functions](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/06.ipynb)
+[6.Functions](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/06.ipynb){:target="_blank"}
 
-[7.Classes](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/07.ipynb)
+[7.Classes](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/07.ipynb){:target="_blank"}
 
 
 # Kick-off
@@ -42,7 +42,7 @@ Installing all the necessary libraries might prove troublesome. Anaconda and Can
 
 # Anaconda
 
-Download Anaconda from [here](https://www.anaconda.com/download/)
+Download Anaconda from [here](https://www.anaconda.com/download/){:target="_blank"}
 
 Anaconda is completely free and includes more than 300 python packages. Both python 2.7 and 3.4 options are available.
 We would be utilizing the Jupiter Notebook for our learning purpose. 
