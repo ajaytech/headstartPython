@@ -1,4 +1,4 @@
-# headstartPython
+# HeadstartPython
 Learn Python Fast With Jupiter Notebook
 
 # Table of content
@@ -54,4 +54,6 @@ The Jupyter Notebook is an open-source web application that allows you to create
 ```
 jupyter notebook
 ```
+
+This is a customized and improved version of orignal series of Repo https://github.com/rajathkumarmp
 
