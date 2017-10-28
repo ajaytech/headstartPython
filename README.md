@@ -18,7 +18,7 @@ Learn Python Fast With Jupiter Notebook
 [7.Classes](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/07.ipynb)
 
 
-#Kick-off
+# Kick-off
 
 Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
 
