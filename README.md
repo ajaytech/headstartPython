@@ -3,21 +3,21 @@ Learn Python Fast With Jupiter Notebook
 
 # Table of content
 
-[1.Variables](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/01.ipynb)
+[1.Variables](https://github.com/ajaytech/headstartPython/blob/master/01.ipynb)
 
-[2.Print Statement](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/02.ipynb)
+[2.Print Statement](https://github.com/ajaytech/headstartPython/blob/master/02.ipynb)
 
-[3.Data Structure](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/03.ipynb)
+[3.Data Structure](https://github.com/ajaytech/headstartPython/blob/master/03.ipynb)
 
-[4.String](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/04.ipynb)
+[4.String](https://github.com/ajaytech/headstartPython/blob/master/04.ipynb)
 
-[5.Control Flow Statements](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/05.ipynb)
+[5.Control Flow Statements](https://github.com/ajaytech/headstartPython/blob/master/05.ipynb)
 
-[6.Functions](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/06.ipynb)
+[6.Functions](https://github.com/ajaytech/headstartPython/blob/master/06.ipynb)
 
-[7.Classes](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/07.ipynb)
+[7.Classes](https://github.com/ajaytech/headstartPython/blob/master/07.ipynb)
 
-[8.Regex by Rex Dwyer](http://nbviewer.jupyter.org/github/ajaytech/headstartPython/blob/master/08.ipynb)
+[8.Regex by Rex Dwyer](https://github.com/ajaytech/headstartPython/blob/master/08.ipynb)
 
 # Kick-off
 
